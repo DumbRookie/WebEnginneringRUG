@@ -1,0 +1,5 @@
+Only self linking.
+Interpretation of carrier specific reason is wrong. Its not about just carrier specific and all, it’s about any reason among reasons.
+Only json response is shown.
+PUT, POST,DELETE are not proper , will you post data for all carriers of one airport. What will be the request body for each type of put post delete.
+Statistics and descriptive statistics as separate resource.
